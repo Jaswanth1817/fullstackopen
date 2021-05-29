@@ -85,4 +85,4 @@ const DisplayCountryDetails = ({ searchCountries, input }) => {
 
 }
 
-export default DisplayCountryDetails
+export default DisplayCountryDetails;
